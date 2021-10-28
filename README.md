@@ -1,5 +1,5 @@
 # 3LS
-Here be scripts used to automate things at work
+Here be a repository containing things I've done/created at work
 
 ---
 
